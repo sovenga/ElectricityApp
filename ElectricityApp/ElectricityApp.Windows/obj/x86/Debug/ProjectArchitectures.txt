@@ -1,0 +1,1 @@
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\ElectricityApp.Windows.csproj;x86

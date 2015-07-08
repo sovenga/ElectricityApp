@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="ElectricityApp.ViewAppliances"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ElectricityApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' x:Name="btnBack" Content="BACK" HorizontalAlignment="Left" Margin="7,7,0,0" VerticalAlignment="Top" Height="54" Width="122"                      />
+        <TextBlock HorizontalAlignment="Left" Margin="339,15,0,0" TextWrapping="Wrap" Text="ELECTRICITY UNITS CALCULATOR" VerticalAlignment="Top" FontSize="36" Width="606" FontWeight="Bold" Height="79"/>
+        <Button x:ConnectionId='2' x:Name="btnContinue" Content="CONTINUE" HorizontalAlignment="Left" Margin="41,638,0,0" VerticalAlignment="Top" Height="86" Width="574"                     />
+        <Grid HorizontalAlignment="Left" Height="454" Margin="44,153,0,0" VerticalAlignment="Top" Width="400">
+            <ListView x:Name="listView" SelectionMode="Multiple" HorizontalAlignment="Left" Height="416" Margin="32,10,0,0" VerticalAlignment="Top" Width="370"/>
+        </Grid>
+        <ListView x:Name="listBox" HorizontalAlignment="Left" Height="272" Margin="479,153,0,0" VerticalAlignment="Top" Width="86"/>
+        <StackPanel x:Name="textBoxPanel" HorizontalAlignment="Left" Height="483" Margin="612,153,0,0" VerticalAlignment="Top" Width="754"/>
+        <Button x:ConnectionId='3' x:Name="btnCalculate" Content="CALCULATE&#x9;" HorizontalAlignment="Left" Margin="672,638,0,0" VerticalAlignment="Top" Height="86" Width="610"                           />
+
+    </Grid>
+</Page>
+

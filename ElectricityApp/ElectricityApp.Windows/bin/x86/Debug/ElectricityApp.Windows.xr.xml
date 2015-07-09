@@ -81,19 +81,13 @@
     <RootType FullName="ElectricityApp.MainPage" />
     <RootType FullName="ElectricityApp.RegisterPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
-      <RootProperty Name="HorizontalAlignment" />
-      <RootProperty Name="Height" />
-      <RootProperty Name="Margin" />
-      <RootProperty Name="VerticalAlignment" />
-      <RootProperty Name="Width" />
       <RootProperty Name="SelectionMode" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Height" />
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Width" />
+      <RootEvent Name="SelectionChanged" />
     </RootType>
     <RootType FullName="ElectricityApp.ViewAppliances" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListBox">

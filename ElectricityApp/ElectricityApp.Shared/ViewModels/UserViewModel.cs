@@ -51,7 +51,6 @@ namespace ElectricityApp.model
             {
                 
             }
-            //return "Success";
         }
         public User getUser(string username,string password)
         {

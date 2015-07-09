@@ -46,8 +46,21 @@ namespace ElectricityApp
             
             string password = txtPassword.Text;
             string confirm = txtConfirm.Text;
-            user.addUser(username,password);
-            messageBox("data saved");
+            if (!username.Equals("") && !password.Equals(""))
+            {
+                if (password.Equals(confirm))
+                {
+                    user.addUser(username, password);
+                    messageBox("account has been created");
+                }
+                else
+                {
+                    messageBox("Passwords do not match");
+                }
+                txtPassword.Text = "";
+                txtConfirm.Text = "";
+            }
+            else { messageBox("Sorry!!!!These fields cannot be left blank"); }
         }
     }
 }

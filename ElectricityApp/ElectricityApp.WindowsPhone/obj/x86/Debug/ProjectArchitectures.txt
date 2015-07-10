@@ -1,0 +1,1 @@
+D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\ElectricityApp.WindowsPhone.csproj;x86

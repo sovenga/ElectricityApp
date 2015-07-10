@@ -31,7 +31,7 @@ namespace ElectricityApp
         TextBox watts, hours, number;
         TextBox[] wats, hour, num;
         bool isPressed = false;
-
+        
         double total_watts = 0.0;
         int tota_number = 0;
         int total_hours = 0;
@@ -42,6 +42,7 @@ namespace ElectricityApp
         public ViewAppliances()
         {
             this.InitializeComponent();
+            txtCurrentUnits.Text = "0";
         }
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
@@ -188,7 +189,7 @@ namespace ElectricityApp
                     total_hours = total_hours_appliance1 + total_hours_appliance2 + total_hours_appliance3 + total_hours_appliance4 + total_hours_appliance5;
                     
                 }
-                    messageBox("Your Kilo watts are " );
+                    //messageBox("Your Kilo watts are " );
                 }
                 catch (Exception ex)
                 {
@@ -205,6 +206,9 @@ namespace ElectricityApp
             string appliance3 = txtAppliance3Hours.Text;
             string appliance4 = txtAppliance4Hours.Text;
             string appliance5 = txtAppliance5Hours.Text;
+            string currentUnits = txtCurrentUnits.Text;
+
+            double current_units = Convert.ToDouble(currentUnits);
 
             double first_appliance_hours = Convert.ToDouble(appliance1);
             double second_appliance_hours = Convert.ToDouble(appliance2);
@@ -216,7 +220,9 @@ namespace ElectricityApp
             Kilo_Watts = (total_watts * total_appliance_hours) * tota_number;
 
             total_units = Kilo_Watts / 1000;
-            messageBox("Total consumed Units : "+total_units+" units");
+            current_units = current_units - total_units;
+            lblRemainingUnits.Text = ""+current_units;
+            messageBox("Total consumed Units : "+total_units);
             
         }
 

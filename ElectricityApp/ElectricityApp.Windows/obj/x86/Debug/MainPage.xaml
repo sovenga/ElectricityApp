@@ -8,16 +8,17 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Grid HorizontalAlignment="Left" Height="429" Margin="110,66,0,0" VerticalAlignment="Top" Width="727">
-            <TextBlock HorizontalAlignment="Left" Margin="93,10,0,0" TextWrapping="Wrap" Text="ELECTRICITY UNITS CALCULATOR" VerticalAlignment="Top" FontSize="36" Width="588" FontWeight="Bold"/>
-            <TextBlock x:ConnectionId='1' HorizontalAlignment="Left" Margin="93,120,0,0" TextWrapping="Wrap" Text="USERAME" VerticalAlignment="Top" FontSize="20"                                               RenderTransformOrigin="0.51,2.619"/>
-            <TextBlock x:ConnectionId='2' HorizontalAlignment="Left" Margin="93,177,0,0" TextWrapping="Wrap" Text="PASSWORD" VerticalAlignment="Top" FontSize="20"                                               RenderTransformOrigin="0.51,2.619"/>
-            <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Margin="247,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="325"/>
-            <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="247,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="325"/>
-            <Button x:ConnectionId='3' x:Name="btnLogin" Content="LOGIN" HorizontalAlignment="Left" Margin="427,233,0,0" VerticalAlignment="Top" Width="148"                     />
-            <HyperlinkButton x:ConnectionId='4' x:Name="linkRegister" Content="Register" HorizontalAlignment="Left" Margin="76,237,0,0" VerticalAlignment="Top"                              />
-            <HyperlinkButton x:ConnectionId='5' Content="Forgot Password" HorizontalAlignment="Left" Margin="230,237,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.66,0.627"                                />
-            <Button x:ConnectionId='6' Content="Button" HorizontalAlignment="Left" Margin="614,109,0,0" VerticalAlignment="Top"                       />
+        <Grid HorizontalAlignment="Left" Height="424" Margin="142,52,0,0" VerticalAlignment="Top" Width="652">
+            <TextBlock HorizontalAlignment="Left" Margin="135,10,-56,0" TextWrapping="Wrap" Text="ELECTRICITY UNITS CALCULATOR" VerticalAlignment="Top" FontSize="20" Width="398" FontWeight="Bold"/>
+            <TextBlock x:ConnectionId='1' HorizontalAlignment="Left" Margin="135,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20"                                               RenderTransformOrigin="0.51,2.619" Width="211">
+            	<Run FontWeight="Bold" FontSize="22" Text="Username"/>
+            </TextBlock>
+            <TextBlock x:ConnectionId='2' HorizontalAlignment="Left" Margin="135,166,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" FontSize="20"                                               RenderTransformOrigin="0.51,2.619" FontWeight="Bold" Width="142"/>
+            <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Margin="135,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="325"/>
+            <Button x:ConnectionId='3' x:Name="btnLogin" Content="LOGIN" HorizontalAlignment="Left" Margin="361,258,0,0" VerticalAlignment="Top" Width="102"                     />
+            <HyperlinkButton x:ConnectionId='4' x:Name="linkRegister" Content="Register" HorizontalAlignment="Left" Margin="254,264,0,0" VerticalAlignment="Top"                              />
+            <HyperlinkButton x:ConnectionId='5' x:Name="linkForgotpassword" Content="Forgot Password" HorizontalAlignment="Left" Margin="118,264,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.66,0.627"                                />
+            <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="135,206,0,0" VerticalAlignment="Top" Width="325"/>
         </Grid>
 
     </Grid>

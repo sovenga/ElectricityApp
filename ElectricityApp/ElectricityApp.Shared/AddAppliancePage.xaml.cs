@@ -27,6 +27,8 @@ namespace ElectricityApp
         public AddAppliancePage()
         {
             this.InitializeComponent();
+            txtNumberOfItems.Text = "1";
+            txtWatts.Text = "0";
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -40,17 +42,26 @@ namespace ElectricityApp
         }
         private void btnAddAppliance_Click(object sender, RoutedEventArgs e)
         {
-            applianceViewModel = new ApplianceViewModel(); 
-            string name = txtApplianceName.Text;
-            int watts = Convert.ToInt32(txtWatts.Text);
-            int number = Convert.ToInt32(txtNumberOfItems.Text);
-            
-            applianceViewModel.addAppliance(name,watts,number);
 
-           
-            messageBox("Appliance Has been Saved");
-
-           
+            try
+            {
+                applianceViewModel = new ApplianceViewModel();
+                string name = txtApplianceName.Text;
+                string strwatts = txtWatts.Text;
+                string strnumber = txtNumberOfItems.Text;
+                int watts = Convert.ToInt32(txtWatts.Text);
+                int number = Convert.ToInt32(txtNumberOfItems.Text);
+                if (!(name.Equals("")))
+                {
+                    applianceViewModel.addAppliance(name, watts, number);
+                    messageBox("Appliance Has been Saved");
+                }
+                else
+                {
+                    messageBox("Error!!!! Please enter the name of the appliance");
+                }
+            }
+            catch { messageBox("Error!!!! You have to enter the watts and the total number of appliance of that type"); }
         }
 
     }

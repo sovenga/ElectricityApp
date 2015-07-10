@@ -47,11 +47,20 @@
     <AppxPackagedFile Include="D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\CheckUnitsPage.xbf">
       <PackagePath>CheckUnitsPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\ForgotPasswordPage.xbf">
+      <PackagePath>ForgotPasswordPage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\RegisterPage.xbf">
       <PackagePath>RegisterPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\RemoveUserPage.xbf">
+      <PackagePath>RemoveUserPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\TestPage.xbf">
+      <PackagePath>TestPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\ViewAppliances.xbf">
       <PackagePath>ViewAppliances.xbf</PackagePath>

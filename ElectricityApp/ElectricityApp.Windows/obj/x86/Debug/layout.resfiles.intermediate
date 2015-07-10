@@ -6,8 +6,11 @@ AddAppliancePage.xbf
 App.xbf
 CheckUnitsPage.xbf
 ElectricityApp.Windows.xr.xml
+ForgotPasswordPage.xbf
 MainPage.xbf
 RegisterPage.xbf
+RemoveUserPage.xbf
+TestPage.xbf
 ViewAppliances.xbf
 ViewPage.xbf
 WelcomePage.xbf

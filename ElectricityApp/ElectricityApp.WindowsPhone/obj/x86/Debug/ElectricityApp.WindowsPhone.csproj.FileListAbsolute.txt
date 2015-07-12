@@ -1,0 +1,136 @@
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\App.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\AddAppliancePage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\CheckUnitsPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\MainPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\RegisterPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ViewAppliances.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ViewPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\WelcomePage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.xr.xml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.exe
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.pdb
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\resources.pri
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\AppxManifest.xml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.build.appxrecipe
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.g.i.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\XamlTypeInfo.g.cs
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\XamlSaveStateFile.xml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.xaml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.xbf
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ElectricityApp.WindowsPhone.exe
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ElectricityApp.WindowsPhone.pdb
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ElectricityApp.WindowsPhone.csproj.GenerateResource.Cache
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\priconfig.xml
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\priconfig.xml.intermediate
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\layout.resfiles
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\layout.resfiles.intermediate
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\resources.resfiles
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\resources.resfiles.intermediate
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\pri.resfiles
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\pri.resfiles.intermediate
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\qualifiers.txt
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\qualifiers.txt.intermediate
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+d:\mod\documents\visual studio 2013\Projects\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\App.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\AddAppliancePage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\CheckUnitsPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ForgotPasswordPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\MainPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\RegisterPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\RemoveUserPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ViewAppliances.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ViewPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\WelcomePage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.xr.xml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.exe
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.pdb
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\resources.pri
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\AppxManifest.xml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\ElectricityApp.WindowsPhone.build.appxrecipe
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ForgotPasswordPage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ForgotPasswordPage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RemoveUserPage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RemoveUserPage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ForgotPasswordPage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RemoveUserPage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\App.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\AddAppliancePage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\CheckUnitsPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ForgotPasswordPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MainPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RegisterPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\RemoveUserPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewAppliances.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ViewPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\WelcomePage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ElectricityApp.WindowsPhone.exe
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ElectricityApp.WindowsPhone.pdb
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ElectricityApp.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\priconfig.xml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\layout.resfiles
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\resources.resfiles
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\pri.resfiles
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\qualifiers.txt
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ProjectArchitectures.txt

@@ -1,0 +1,1 @@
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\ElectricityApp.Windows.csproj;x86

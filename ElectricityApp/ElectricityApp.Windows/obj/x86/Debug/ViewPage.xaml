@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="ElectricityApp.ViewPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ElectricityApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ListBox x:ConnectionId='1' x:Name="namesList" HorizontalAlignment="Left" Height="238" Margin="809,25,0,0" VerticalAlignment="Top" Width="106"                                              />
+        <Grid x:Name="usergridView" HorizontalAlignment="Left" Height="253" Margin="79,10,0,0" VerticalAlignment="Top" Width="512">
+            <TextBox x:Name="txtWatts" HorizontalAlignment="Left" Margin="219,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130"/>
+            <TextBlock HorizontalAlignment="Left" Margin="25,39,0,0" TextWrapping="Wrap" Text="Appliance Name" VerticalAlignment="Top"/>
+            <TextBlock x:Name="lblApplianceName" HorizontalAlignment="Left" Margin="10,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22"/>
+            <Button x:ConnectionId='2' x:Name="btnBack" Content="BACK" HorizontalAlignment="Left" Margin="-3,-1,0,0" VerticalAlignment="Top"                      />
+        </Grid>
+
+    </Grid>
+</Page>
+

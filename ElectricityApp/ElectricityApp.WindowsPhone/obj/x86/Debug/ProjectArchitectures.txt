@@ -1,0 +1,1 @@
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\ElectricityApp.WindowsPhone.csproj;x86

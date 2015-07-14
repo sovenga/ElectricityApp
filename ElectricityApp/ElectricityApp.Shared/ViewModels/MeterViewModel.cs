@@ -73,12 +73,12 @@ namespace ElectricityApp.ViewModels
                     try
                     {
                        // rem = current - used;
-                        db.Execute("update meterbox set currentUnits = currentUnits -" + used);
-                        var query = db.Table<MeterBox>();
+                        //db.Execute("update meterbox set currentUnits = currentUnits -" + used);
+                        db.Update(new MeterBox() 
                         {
-                            CURRENT_UNITS = CURRENT_UNITS - used;
-                        }
-                        db.Update(query);
+                            currentUnits = - used,
+                        });
+                        
                     }
                     catch (Exception e)
                     {

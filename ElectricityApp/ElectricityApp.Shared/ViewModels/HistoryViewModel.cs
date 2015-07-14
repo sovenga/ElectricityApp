@@ -21,6 +21,21 @@ namespace ElectricityApp.ViewModels
             }
            
         }
+        private int number = 0;
+        public int NUMBER
+        {
+            get { return number; }
+
+            set
+            {
+                if (number == value)
+                {
+                    return;
+                }
+                number = value;
+            }
+
+        }
         private double current_units = 0.0;
         public double USED_UNITS { 
             get { return current_units; }

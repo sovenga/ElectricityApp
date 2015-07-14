@@ -25,6 +25,7 @@ namespace ElectricityApp
     /// </summary>
     public sealed partial class ViewAppliances : Page
     {
+        MeterViewModel meterView = new MeterViewModel();
         double CURRENT_UNITS = 0.0,REMAINING_UNITS=0.0;
         List<Appliance> listAppliances = null;
         AppliancesViewModel appliancesModel = null;
@@ -46,20 +47,35 @@ namespace ElectricityApp
         {
             this.InitializeComponent();
             txtCurrentUnits.Text = "0";
+            
+           
+            //
         }
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            //listAppliances = model.getAllAppliances();
+            //MeterBox box = null; 
+            
+            
             appliancesModel = new AppliancesViewModel();
             try
-            {
+            {  
+               MeterBox unitObject = meterView.getMeterUnits();
                 appliances = appliancesModel.getAllAppliances();
                 if (appliances != null)
                 {
-                    foreach (var ap in appliances)
+                    if (unitObject != null) 
                     {
-                        listView.Items.Add(ap.NUMBER_OF_ITEMS + "# " + ap.APPLIANCE_NAME + "(s) WATTS:" + ap.WATTS);
+                        txtCurrentUnits.Text = "" + unitObject.currentUnits; 
+                        foreach (var ap in appliances)
+                        {
+                            listView.Items.Add(ap.NUMBER_OF_ITEMS + "# " + ap.APPLIANCE_NAME + "(s) WATTS:" + ap.WATTS);
+                        }
                     }
+                    else
+                    {
+                        messageBox("No Units found in the Meter Box");
+                    }
+                    
                 }
                 else
                 {
@@ -95,9 +111,10 @@ namespace ElectricityApp
             applianceNames = new string[sel.Count()];
             txtAppliance1Hours.Text = "0"; txtAppliance2Hours.Text = "0"; txtAppliance3Hours.Text = "0"; txtAppliance4Hours.Text = "0"; txtAppliance5Hours.Text = "0";
             string txtAppliance1 = "";
-            string appliance2 = listView.Items[0].ToString();
+            
             try
             {
+                string appliance2 = listView.Items[0].ToString();
 
                 for (int i = 0; i < sel.Count(); i++)
                 {
@@ -205,6 +222,7 @@ namespace ElectricityApp
 
         private void btnCalculate_Click(object sender, RoutedEventArgs e)
         {
+            meterView = new MeterViewModel();
             history = new HistoryViewModel();
             DateTime date = DateTime.Today;
             int day = date.Day;
@@ -235,7 +253,8 @@ namespace ElectricityApp
             string checkDate = date.ToString("D");
             history.saveHistory(tota_number, total_units, REMAINING_UNITS, checkDate);
             lblRemainingUnits.Text = "You have " + REMAINING_UNITS + " Units Remaining";
-
+            meterView.updateMeterBoxUnits(total_units);
+            txtCurrentUnits.Text = ""+REMAINING_UNITS;
             messageBox("Total consumed Units for selected appliances is : " + total_units + " units");
             }
             catch (Exception ex){

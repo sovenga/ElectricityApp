@@ -44,7 +44,7 @@ namespace ElectricityApp
                 {
                     foreach (var hist in histories)
                     {
-                        listViewHistory.Items.Add(hist.ID + " :Used :" + hist.USED_UNITS + " Remained " + hist.REMAINING_UNITS + " DATE: " + hist.DATE + "");
+                        listViewHistory.Items.Add("You used "+hist.NUMBER + " appliance'(s) that consumed :" + hist.USED_UNITS + " Units, and Remained units were " + hist.REMAINING_UNITS + " on " + hist.DATE + "");
                     }
                 }
                 else

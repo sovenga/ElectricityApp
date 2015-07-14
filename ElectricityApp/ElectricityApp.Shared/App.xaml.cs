@@ -61,6 +61,7 @@ namespace ElectricityApp
                 dbase.CreateTable<User>();
                 dbase.CreateTable<Appliance>();
                 dbase.CreateTable<History>();
+                dbase.CreateTable<MeterBox>();
             }
 #endif
 

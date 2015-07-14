@@ -90,5 +90,10 @@ namespace ElectricityApp
             history.dropHistory();
             messageBox("success");
         }
+
+        private void linkAddMeter_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(AddMeterPage));
+        }
     }
 }

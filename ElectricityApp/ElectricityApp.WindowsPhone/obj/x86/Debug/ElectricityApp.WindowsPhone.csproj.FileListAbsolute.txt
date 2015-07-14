@@ -134,3 +134,8 @@ C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsP
 C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\bin\x86\Debug\HistoryPage.xbf
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\HistoryPage.g.i.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\HistoryPage.g.cs
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\HistoryPage.xaml
+C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.WindowsPhone\obj\x86\Debug\HistoryPage.xbf

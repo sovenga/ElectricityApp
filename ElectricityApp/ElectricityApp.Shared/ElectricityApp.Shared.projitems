@@ -15,6 +15,9 @@
     <Compile Include="$(MSBuildThisFileDirectory)AddAppliancePage.xaml.cs">
       <DependentUpon>AddAppliancePage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)AddMeterPage.xaml.cs">
+      <DependentUpon>AddMeterPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
@@ -52,6 +55,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ApplianceViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\HistoriesViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\HistoryViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\MeterViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\UsersViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\UserViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewPage.xaml.cs">
@@ -66,6 +70,10 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="$(MSBuildThisFileDirectory)AddAppliancePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)AddMeterPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

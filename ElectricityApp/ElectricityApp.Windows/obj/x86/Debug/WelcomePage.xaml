@@ -12,12 +12,13 @@
         <Button x:ConnectionId='1' Content="BACK" HorizontalAlignment="Left" Margin="22,35,0,0" VerticalAlignment="Top"                     />
         <Frame HorizontalAlignment="Left" Margin="25,75,0,0" VerticalAlignment="Top" Height="405" Width="706" RenderTransformOrigin="0.397,0.585">
             <Grid HorizontalAlignment="Left" Height="366" Margin="36,23,0,0" VerticalAlignment="Top" Width="593">
-                <HyperlinkButton x:ConnectionId='2' Content="CHECK UNITS" HorizontalAlignment="Left" Margin="7,146,0,0" VerticalAlignment="Top" FontSize="22"                                />
-                <HyperlinkButton x:ConnectionId='3' x:Name="linkLogout" Content="LOGOUT" HorizontalAlignment="Left" Margin="7,283,0,0" VerticalAlignment="Top" FontSize="22"                         />
-                <HyperlinkButton x:ConnectionId='4' x:Name="linkremoveaccount" Content="Remove My Account" HorizontalAlignment="Left" Margin="7,210,0,0" VerticalAlignment="Top" FontSize="22"                                />
-                <HyperlinkButton x:ConnectionId='5' x:Name="linkDropTable" Content="REMOVE ALL APPLIANCES" HorizontalAlignment="Left" Margin="7,178,0,0" VerticalAlignment="Top" FontSize="22"                            />
+                <HyperlinkButton x:ConnectionId='2' Content="CHECK UNITS" HorizontalAlignment="Left" Margin="7,141,0,0" VerticalAlignment="Top" FontSize="22"                                />
+                <HyperlinkButton x:ConnectionId='3' x:Name="linkLogout" Content="LOGOUT" HorizontalAlignment="Left" Margin="7,269,0,0" VerticalAlignment="Top" FontSize="22"                         />
+                <HyperlinkButton x:ConnectionId='4' x:Name="linkremoveaccount" Content="Remove My Account" HorizontalAlignment="Left" Margin="7,168,0,0" VerticalAlignment="Top" FontSize="22"                                />
+                <HyperlinkButton x:ConnectionId='5' x:Name="linkDropTable" Content="REMOVE ALL APPLIANCES" HorizontalAlignment="Left" Margin="7,237,0,0" VerticalAlignment="Top" FontSize="22"                            />
                 <HyperlinkButton x:ConnectionId='6' Content="ADD APPLIANCES" HorizontalAlignment="Left" Margin="7,109,0,0" VerticalAlignment="Top" FontSize="22"                              />
-                <HyperlinkButton x:ConnectionId='7' x:Name="linkDropHistory" Content="DROP HISTORY" HorizontalAlignment="Left" Margin="7,251,0,0" VerticalAlignment="Top" FontWeight="Normal" FontSize="22"                              />
+                <HyperlinkButton x:ConnectionId='7' x:Name="linkDropHistory" Content="DROP HISTORY" HorizontalAlignment="Left" Margin="7,205,0,0" VerticalAlignment="Top" FontWeight="Normal" FontSize="22"                              />
+                <HyperlinkButton x:ConnectionId='8' x:Name="linkAddMeter" Content="ADD METER BOX" HorizontalAlignment="Left" Margin="7,77,0,0" VerticalAlignment="Top" FontSize="22"                           />
             </Grid>
         </Frame>
 

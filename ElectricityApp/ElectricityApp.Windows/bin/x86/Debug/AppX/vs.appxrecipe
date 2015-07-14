@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-07-12T04:25:50.833</Modified>
+      <Modified>2015-07-14T08:42:13.789</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\ElectricityApp.Windows.exe">
       <PackagePath>ElectricityApp.Windows.exe</PackagePath>
-      <Modified>2015-07-12T22:05:42.976</Modified>
+      <Modified>2015-07-14T10:16:18.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.10.2\Redist\Debug\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
@@ -54,55 +54,59 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-07-09T09:16:05.664</Modified>
+      <Modified>2015-07-14T07:42:38.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\AddAppliancePage.xbf">
       <PackagePath>AddAppliancePage.xbf</PackagePath>
-      <Modified>2015-07-09T09:16:05.665</Modified>
+      <Modified>2015-07-14T07:42:38.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\AddMeterPage.xbf">
+      <PackagePath>AddMeterPage.xbf</PackagePath>
+      <Modified>2015-07-14T09:30:38.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\CheckUnitsPage.xbf">
       <PackagePath>CheckUnitsPage.xbf</PackagePath>
-      <Modified>2015-07-09T09:16:05.671</Modified>
+      <Modified>2015-07-14T07:42:38.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\ForgotPasswordPage.xbf">
       <PackagePath>ForgotPasswordPage.xbf</PackagePath>
-      <Modified>2015-07-12T07:55:03.037</Modified>
+      <Modified>2015-07-14T09:30:38.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\HistoryPage.xbf">
       <PackagePath>HistoryPage.xbf</PackagePath>
-      <Modified>2015-07-12T07:53:54.492</Modified>
+      <Modified>2015-07-14T09:32:46.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-07-11T02:33:27.591</Modified>
+      <Modified>2015-07-14T07:42:38.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\RegisterPage.xbf">
       <PackagePath>RegisterPage.xbf</PackagePath>
-      <Modified>2015-07-12T07:53:54.492</Modified>
+      <Modified>2015-07-14T07:42:38.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\RemoveUserPage.xbf">
       <PackagePath>RemoveUserPage.xbf</PackagePath>
-      <Modified>2015-07-09T20:01:20.366</Modified>
+      <Modified>2015-07-14T07:42:38.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\ViewAppliances.xbf">
       <PackagePath>ViewAppliances.xbf</PackagePath>
-      <Modified>2015-07-12T22:05:41.158</Modified>
+      <Modified>2015-07-14T09:30:38.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\ViewPage.xbf">
       <PackagePath>ViewPage.xbf</PackagePath>
-      <Modified>2015-07-12T07:53:54.493</Modified>
+      <Modified>2015-07-14T07:42:38.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\WelcomePage.xbf">
       <PackagePath>WelcomePage.xbf</PackagePath>
-      <Modified>2015-07-12T07:53:54.493</Modified>
+      <Modified>2015-07-14T09:30:38.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\ElectricityApp.Windows.xr.xml">
       <PackagePath>ElectricityApp.Windows.xr.xml</PackagePath>
-      <Modified>2015-07-12T07:29:16.381</Modified>
+      <Modified>2015-07-14T08:54:30.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-07-12T04:25:49.982</Modified>
+      <Modified>2015-07-14T08:42:12.057</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -44,6 +44,9 @@
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\AddAppliancePage.xbf">
       <PackagePath>AddAppliancePage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\AddMeterPage.xbf">
+      <PackagePath>AddMeterPage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sovenga\Documents\ElectricityApp\ElectricityApp\ElectricityApp.Windows\bin\x86\Debug\CheckUnitsPage.xbf">
       <PackagePath>CheckUnitsPage.xbf</PackagePath>
     </AppxPackagedFile>

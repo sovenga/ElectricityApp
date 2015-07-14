@@ -49,6 +49,7 @@ namespace ElectricityApp
             string password = txtPassword.Password;
                 user = new UserViewModel();
                 var valid = user.getUser(username,password);
+            
                 if (valid != null)
                 {
                     this.Frame.Navigate(typeof(WelcomePage));

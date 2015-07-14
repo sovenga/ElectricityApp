@@ -9,7 +9,7 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Button x:ConnectionId='1' x:Name="btnBack" Content="BACK" HorizontalAlignment="Left" Margin="7,7,0,0" VerticalAlignment="Top" Height="38" Width="102"                      />
-        <TextBlock HorizontalAlignment="Left" Margin="168,10,0,0" TextWrapping="Wrap" Text="ELECTRICITY UNITS CALCULATOR" VerticalAlignment="Top" FontSize="24" Width="390" FontWeight="Bold" Height="21"/>
+        <TextBlock HorizontalAlignment="Left" Margin="168,10,0,0" TextWrapping="Wrap" Text="ELECTRICITY UNITS CALCULATOR" VerticalAlignment="Top" FontSize="18" Width="305" FontWeight="Bold" Height="21"/>
         <Button x:ConnectionId='2' x:Name="btnContinue" Content="SEND TO CALCULATOR" HorizontalAlignment="Left" Margin="28,627,0,0" VerticalAlignment="Top" Height="44" Width="250"                     />
         <Grid HorizontalAlignment="Left" Height="451" Margin="31,157,0,0" VerticalAlignment="Top" Width="244">
             <ListView x:ConnectionId='6' x:Name="listView" SelectionMode="Multiple" HorizontalAlignment="Left" Height="365" Margin="10,37,0,0" VerticalAlignment="Top" Width="224"                                             />
@@ -31,10 +31,10 @@
             <HyperlinkButton x:ConnectionId='5' Content="Refresh" HorizontalAlignment="Left" Margin="365,389,0,-79" VerticalAlignment="Top"                              />
             <TextBlock x:Name="lblAppliance1_Copy1" TextWrapping="Wrap" Text="CURRENT UNITS" FontSize="18" Margin="-291,-52,813,368" FontWeight="Bold"/>
         </Grid>
-        <TextBlock x:Name="lblRemainingUnits" HorizontalAlignment="Left" Margin="430,646,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Width="344"/>
+        <TextBlock x:Name="lblRemainingUnits" HorizontalAlignment="Left" Margin="360,646,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Width="525" Height="89"/>
         <TextBox x:Name="txtCurrentUnits" HorizontalAlignment="Left" Margin="278,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="267"/>
         <TextBlock x:Name="lblAppliance1_Copy3" TextWrapping="Wrap" Text="Units" FontSize="18" Margin="562,58,567,677" FontWeight="Bold"/>
-        <Button x:ConnectionId='4' x:Name="btnHistory" Content="VIEW HISTORY" HorizontalAlignment="Left" Margin="644,1,0,0" VerticalAlignment="Top" Height="44" Width="245"                         />
+        <Button x:ConnectionId='4' x:Name="btnHistory" Content="VIEW HISTORY" HorizontalAlignment="Left" Margin="28,681,0,0" VerticalAlignment="Top" Height="44" Width="250"                         />
 
     </Grid>
 </Page>

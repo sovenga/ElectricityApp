@@ -64,9 +64,31 @@ namespace ElectricityApp
 
         private void linkDropTable_Click(object sender, RoutedEventArgs e)
         {
-            appliance = new ApplianceViewModel();
-            appliance.dropAppliancesTable();
-            messageBox("Table Removed");
+            //appliance = new ApplianceViewModel();
+            //appliance.dropAppliancesTable();
+            //messageBox("Table Removed");
+        }
+
+        private void linkremoveaccount_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(RemoveUserPage));
+        }
+
+        private void linkLogout_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(MainPage));
+        }
+
+        private void HyperlinkButton_Click_2(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(ViewAppliances));
+        }
+
+        private void linkDropHistory_Click(object sender, RoutedEventArgs e)
+        {
+            HistoryViewModel history = new HistoryViewModel();
+            history.dropHistory();
+            messageBox("success");
         }
     }
 }

@@ -7,49 +7,34 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid>
-        <Grid.Background>
-            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                <GradientStop Color="Black" Offset="0"/>
-                <GradientStop Color="White" Offset="1"/>
-            </LinearGradientBrush>
-        </Grid.Background>
-        <Button x:Name="btnBack" Content="BACK" HorizontalAlignment="Left" Margin="7,7,0,0" VerticalAlignment="Top" Height="40" Width="88" Click="btnBack_Click"/>
-        <TextBlock HorizontalAlignment="Left" Margin="339,15,0,0" TextWrapping="Wrap" Text="ELECTRICITY UNITS CALCULATOR" VerticalAlignment="Top" FontSize="36" Width="606" FontWeight="Bold" Height="43"/>
-        <Button x:Name="btnContinue" Content="SEND TO CALCULATOR" HorizontalAlignment="Left" Margin="26,641,0,0" VerticalAlignment="Top" Height="55" Width="189" Click="Button_Click"/>
-        <Grid HorizontalAlignment="Left" Height="451" Margin="10,170,0,0" VerticalAlignment="Top" Width="244">
-            <ListView x:Name="listView" SelectionMode="Multiple" HorizontalAlignment="Left" Height="398" Margin="4,23,0,0" VerticalAlignment="Top" Width="240" SelectionChanged="listView_SelectionChanged"/>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="btnBack" Content="BACK" HorizontalAlignment="Left" Margin="7,7,0,0" VerticalAlignment="Top" Height="38" Width="102" Click="btnBack_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="168,10,0,0" TextWrapping="Wrap" Text="ELECTRICITY UNITS CALCULATOR" VerticalAlignment="Top" FontSize="24" Width="390" FontWeight="Bold" Height="21"/>
+        <Button x:Name="btnContinue" Content="SEND TO CALCULATOR" HorizontalAlignment="Left" Margin="28,627,0,0" VerticalAlignment="Top" Height="44" Width="250" Click="Button_Click"/>
+        <Grid HorizontalAlignment="Left" Height="451" Margin="31,157,0,0" VerticalAlignment="Top" Width="244">
+            <ListView x:Name="listView" SelectionMode="Multiple" HorizontalAlignment="Left" Height="365" Margin="10,37,0,0" VerticalAlignment="Top" Width="224" SelectionChanged="listView_SelectionChanged"/>
         </Grid>
-        <Button x:Name="btnCalculate" Content="CALCULATE&#x9;" HorizontalAlignment="Left" Margin="579,549,0,0" VerticalAlignment="Top" Height="55" Width="136" Click="btnCalculate_Click"/>
-        <Grid HorizontalAlignment="Left" Height="384" Margin="303,86,0,0" VerticalAlignment="Top" Width="678">
-            <TextBlock x:Name="lblAppliance1" TextWrapping="Wrap" FontSize="24" Margin="7,100,397,252"/>
-            <TextBlock x:Name="lblAppliance2" TextWrapping="Wrap" FontSize="24" Margin="7,151,387,201"/>
-            <TextBlock x:Name="lblAppliance3" TextWrapping="Wrap" FontSize="24" Margin="7,205,387,147"/>
-            <TextBlock x:Name="lblAppliance4" TextWrapping="Wrap" FontSize="24" Margin="7,253,387,98"/>
-            <TextBlock x:Name="lblAppliance5" TextWrapping="Wrap" FontSize="24" Margin="7,306,387,46"/>
-            <TextBox x:Name="txtAppliance1Hours" HorizontalAlignment="Left" Margin="291,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117"/>
-            <TextBlock x:Name="lblAppliance1_Copy" TextWrapping="Wrap" Text="APPLIANCE " FontSize="18" Margin="0,10,443,345" FontWeight="Bold"/>
-            <TextBlock x:Name="lblAppliance1_Copy2" TextWrapping="Wrap" Text="HOURS USED" FontSize="18" Margin="284,10,210,345" FontWeight="Bold"/>
-            <TextBox x:Name="txtAppliance2Hours" HorizontalAlignment="Left" Margin="291,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117"/>
-            <TextBox x:Name="txtAppliance3Hours" HorizontalAlignment="Left" Margin="291,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117"/>
-            <TextBox x:Name="txtAppliance4Hours" HorizontalAlignment="Left" Margin="291,254,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117"/>
-            <TextBox x:Name="txtAppliance5Hours" HorizontalAlignment="Left" Margin="291,306,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117"/>
-            <HyperlinkButton Content="Refresh" HorizontalAlignment="Left" Margin="328,385,0,-43" VerticalAlignment="Top" Click="HyperlinkButton_Click" Height="42"/>
-            <TextBox x:Name="txtCurrentUnits" HorizontalAlignment="Left" Margin="-133,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="117"/>
-            <TextBlock x:Name="lblAppliance1_Copy1" TextWrapping="Wrap" FontSize="18" Margin="-298,23,825,332" FontWeight="Bold">
-            	<Run Text="CURRENT UNITS"/>
-            	<Run Text=":"/>
-            </TextBlock>
-            <TextBlock TextWrapping="Wrap" FontSize="18" Margin="125,580,376,-225" FontWeight="Bold">
-            	<Run Text="RE"/>
-            	<Run Text="M"/>
-            	<Run Text="ANING"/>
-            	<Run Text=" UNITS"/>
-            	<Run Text=":"/>
-            </TextBlock>
-            <TextBlock x:Name="lblRemainingUnits" TextWrapping="Wrap" FontSize="18" Margin="317,580,174,-225" FontWeight="Bold"/>
+        <Button x:Name="btnCalculate" Content="CALCULATE UNITS&#x9;" HorizontalAlignment="Left" Margin="533,538,0,0" VerticalAlignment="Top" Height="47" Width="244" Click="btnCalculate_Click"/>
+        <Grid HorizontalAlignment="Left" Height="349" Margin="340,109,0,0" VerticalAlignment="Top" Width="680">
+            <TextBlock x:Name="lblAppliance1" TextWrapping="Wrap" FontSize="24" Margin="0,100,394,216"/>
+            <TextBlock x:Name="lblAppliance2" TextWrapping="Wrap" FontSize="24" Margin="0,151,425,165"/>
+            <TextBlock x:Name="lblAppliance3" TextWrapping="Wrap" FontSize="24" Margin="0,205,425,111"/>
+            <TextBlock x:Name="lblAppliance4" TextWrapping="Wrap" FontSize="24" Margin="0,253,425,63"/>
+            <TextBlock x:Name="lblAppliance5" TextWrapping="Wrap" FontSize="24" Margin="0,306,425,10"/>
+            <TextBox x:Name="txtAppliance1Hours" HorizontalAlignment="Left" Margin="291,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143"/>
+            <TextBlock x:Name="lblAppliance1_Copy" TextWrapping="Wrap" Text="APPLIANCE " FontSize="18" Margin="0,10,443,306" FontWeight="Bold"/>
+            <TextBlock x:Name="lblAppliance1_Copy2" TextWrapping="Wrap" Text="HOURS USED" FontSize="18" Margin="284,10,210,306" FontWeight="Bold"/>
+            <TextBox x:Name="txtAppliance2Hours" HorizontalAlignment="Left" Margin="291,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143"/>
+            <TextBox x:Name="txtAppliance3Hours" HorizontalAlignment="Left" Margin="291,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143"/>
+            <TextBox x:Name="txtAppliance4Hours" HorizontalAlignment="Left" Margin="291,254,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143"/>
+            <TextBox x:Name="txtAppliance5Hours" HorizontalAlignment="Left" Margin="291,306,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143"/>
+            <HyperlinkButton Content="Refresh" HorizontalAlignment="Left" Margin="365,389,0,-79" VerticalAlignment="Top" Click="HyperlinkButton_Click"/>
+            <TextBlock x:Name="lblAppliance1_Copy1" TextWrapping="Wrap" Text="CURRENT UNITS" FontSize="18" Margin="-291,-52,813,368" FontWeight="Bold"/>
         </Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="820,667,0,0" TextWrapping="Wrap" Text="Units" VerticalAlignment="Top" FontSize="22" FontStyle="Italic" FontWeight="Bold"/>
+        <TextBlock x:Name="lblRemainingUnits" HorizontalAlignment="Left" Margin="430,646,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Width="344"/>
+        <TextBox x:Name="txtCurrentUnits" HorizontalAlignment="Left" Margin="278,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="267"/>
+        <TextBlock x:Name="lblAppliance1_Copy3" TextWrapping="Wrap" Text="Units" FontSize="18" Margin="562,58,567,677" FontWeight="Bold"/>
+        <Button x:Name="btnHistory" Content="VIEW HISTORY" HorizontalAlignment="Left" Margin="644,1,0,0" VerticalAlignment="Top" Height="44" Width="245" Click="btnHistory_Click"/>
 
     </Grid>
 </Page>

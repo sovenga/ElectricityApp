@@ -25,10 +25,17 @@
     <Compile Include="$(MSBuildThisFileDirectory)ForgotPasswordPage.xaml.cs">
       <DependentUpon>ForgotPasswordPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)HistoryPage.xaml.cs">
+      <DependentUpon>HistoryPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)LandingPage.xaml.cs">
+      <DependentUpon>LandingPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)model\Appliance.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)model\History.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)model\HomeAppliances.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)model\Login.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)model\User.cs" />
@@ -48,11 +55,10 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\AppliancesViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ApplianceViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\HistoriesViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\HistoryViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\UsersViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\UserViewModel.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)ViewPage.xaml.cs">
-      <DependentUpon>ViewPage.xaml</DependentUpon>
-    </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)WelcomePage.xaml.cs">
       <DependentUpon>WelcomePage.xaml</DependentUpon>
     </Compile>
@@ -73,6 +79,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="$(MSBuildThisFileDirectory)HistoryPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)LandingPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="$(MSBuildThisFileDirectory)MainPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -90,10 +104,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="$(MSBuildThisFileDirectory)ViewAppliances.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="$(MSBuildThisFileDirectory)ViewPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

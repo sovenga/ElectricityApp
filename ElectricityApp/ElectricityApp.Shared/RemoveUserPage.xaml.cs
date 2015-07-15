@@ -58,7 +58,7 @@ namespace ElectricityApp
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(WelcomePage));
+            //this.Frame.Navigate(typeof(WelcomePage));
         }
 
         private void HyperlinkButton_Click(object sender, RoutedEventArgs e)
